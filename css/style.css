@@ -15,7 +15,6 @@
 	body
 	{
 		background-color:		#183026;
-		/*background-image:		url('images/overlay.png'),			url('../images/bg.jpg');*/
 		background-image:		url('images/overlay.png');
 		background-repeat:		repeat,								no-repeat;
 		background-size:		auto,								cover;
