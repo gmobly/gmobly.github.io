@@ -29,10 +29,10 @@ style: center
 <article id="first" class="container box style1 right">
 	<a href="#" class="image fit"><img src="assets/images/core_values/native-design.jpg" width="200" /></a>
 	<div class="inner">
+		<br/>
 		<header>
 			<h2>Native Design</h2>
 		</header>
-		<br/>
 		<br/>
 		<br/>
 	</div>
@@ -42,10 +42,10 @@ style: center
 <article class="container box style1 left">
 	<a href="#" class="image fit"><img src="assets/images/core_values/context-content.jpg" /></a>
 	<div class="inner">
+		<br/>
 		<header>
 			<h2>Contextual Content</h2>
 		</header>
-		<br/>
 		<br/>
 		<br/>
 	</div>
@@ -55,10 +55,10 @@ style: center
 <article class="container box style1 left">
 	<a href="#" class="image fit"><img src="assets/images/core_values/premium-spots.jpg" alt="" /></a>
 	<div class="inner">
+		<br/>
 		<header>
 			<h2>Premium Spots</h2>
 		</header>
-		<br/>
 		<br/>
 		<br/>
 	</div>
